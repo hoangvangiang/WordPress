@@ -1,0 +1,29 @@
+@media screen and (min-width: 600px) {
+  body {
+    width: 100%;
+    *zoom: 1;
+  }
+  body:before,
+  body:after {
+    content: "";
+    display: table;
+  }
+  body:after {
+    clear: both;
+  }
+  body {
+    font-size: 1em;
+  }
+  #top-bar .top-bar-container .search-box {
+    padding: 0.35em 0.2em 0 0;
+  }
+  #header .header-container .header-menu a.show-menu {
+    margin-left: 16em !important;
+  }
+  #wrapper .content .post {
+    height: 12em;
+  }
+  #footer .footer-logo img {
+    width: 50%;
+  }
+}

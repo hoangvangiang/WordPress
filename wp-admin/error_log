@@ -1,0 +1,4 @@
+[06-Jan-2014 04:33:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_series' not found or invalid function name in /home/kienthuc/xuanthuc.com/wp-includes/plugin.php on line 429
+[06-Jan-2014 08:32:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kienthuc/xuanthuc.com/wp-content/plugins/posts-to-posts/admin/box-factory.php on line 108
+[06-Jan-2014 08:32:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kienthuc/xuanthuc.com/wp-content/plugins/posts-to-posts/scb/Forms.php on line 145
+[06-Jan-2014 08:32:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kienthuc/xuanthuc.com/wp-content/plugins/posts-to-posts/scb/Forms.php on line 182
