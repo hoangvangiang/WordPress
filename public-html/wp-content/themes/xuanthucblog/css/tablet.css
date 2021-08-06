@@ -1,0 +1,20 @@
+@media screen and (min-width: 768px) {
+  body {
+    width: 100%;
+    *zoom: 1;
+  }
+  body:before,
+  body:after {
+    content: "";
+    display: table;
+  }
+  body:after {
+    clear: both;
+  }
+  body {
+    font-size: 1em;
+  }
+  #header .header-container .header-menu a.show-menu {
+    margin-left: 21em !important;
+  }
+}
